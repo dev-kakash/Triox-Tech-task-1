@@ -63,8 +63,8 @@ const AppStyle = styled.div`
       height: 100%;
     }
     .top-left {
-      width: 300px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
       background-color: #000000;
       position: absolute;
       top: 0;
@@ -76,8 +76,8 @@ const AppStyle = styled.div`
       animation-iteration-count: infinite;
     }
     .top-right {
-      width: 300px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
       background-color: #4f86f7;
       position: absolute;
       top: 0;
@@ -89,8 +89,8 @@ const AppStyle = styled.div`
       animation-iteration-count: infinite;
     }
     .bottom-left {
-      width: 300px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
       background-color: #374f6b;
       position: absolute;
       bottom: 0;
@@ -102,8 +102,8 @@ const AppStyle = styled.div`
       animation-iteration-count: infinite;
     }
     .bottom-right {
-      width: 300px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
       background-color: #002147;
       position: absolute;
       bottom: 0;
